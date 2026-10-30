@@ -6,3 +6,4 @@ streamlit-extras
 google-auth
 gspread
 ultralytics
+opencv-python-headless
