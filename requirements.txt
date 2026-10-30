@@ -5,3 +5,4 @@ python-docx
 streamlit-extras
 google-auth
 gspread
+ultralytics
